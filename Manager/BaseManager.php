@@ -15,4 +15,6 @@ abstract class BaseManager
     abstract public function stop();
 
     abstract public function restart();
+
+    abstract public function isRunning();
 }
