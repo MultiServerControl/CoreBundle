@@ -1,4 +1,6 @@
 <?php
+namespace MultiServerControl\CoreBundle\Manager;
+
 /**
  * Created by JetBrains PhpStorm.
  * User: fabian

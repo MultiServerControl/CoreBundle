@@ -1,4 +1,6 @@
 <?php
+
+namespace MultiServerControl\CoreBundle\Factory;
 /**
  * Created by JetBrains PhpStorm.
  * User: fabian
